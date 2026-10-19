@@ -1,6 +1,6 @@
 # Les Petits Plats
 
-Site web de recettes de cuisine, entièrement codé from scratch en HTML/CSS/JavaScript avec une architecture modulaire et des performances optimisées.
+Application de recherche de recettes combinant recherche textuelle et filtres par ingrédients, appareils et ustensiles.
 
 ## Description
 
